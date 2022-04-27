@@ -10,10 +10,10 @@ Here's the data of the company, and their employees:
 
 Company's name : ConVict
 
-Adress : Seraphim street, block 72 
+Adress : Seraphim street, Block 72 
 
 Phone number : (021) 99915XX 
 
-![image](https://user-images.githubusercontent.com/104478470/165457218-e86c8d8a-a748-4b1c-b14c-f74c379ec514.png)
+![image](https://user-images.githubusercontent.com/104478470/165458309-20e4c20b-4f1e-4955-8a11-831e52ee0eaf.png)
 
 They also said that a data anlysts in this company usually in the age of 21, and has an income of 6,500,000 and overtime pay of 100,000. And then the data scientists usually in the age of 25, has an income of 12,000,000, with overtime pay of 150,000. On the other hand, they also employs freelancers, which usually only has an income of 4,000,000 for data cleaners and 2,500,000 for technical documenters. Some data is blank in the table, they asks me to fill in the blanks with those information they just gave me
